@@ -1,4 +1,14 @@
 project:
-  output-dir: docs
+  type: website
 
-format: html
+website:
+  title: "Memes"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

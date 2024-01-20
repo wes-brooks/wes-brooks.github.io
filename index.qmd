@@ -1,4 +1,7 @@
+---
+title: "Join Memes"
+---
+
 ![Official SQL meme](img/2.png)
 
-![Disney join meme](img/disney-meme.jpg)
-
+![Disney SQL meme](img/disney-meme.jpg)
